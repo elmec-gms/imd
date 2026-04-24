@@ -1,5 +1,5 @@
 
-int and push
+first push
 ```
 git init
 git add README.md
@@ -9,9 +9,9 @@ git remote add origin git@github.com:elmec-gms/imd.git
 git push -u origin main
 ```
 
-cmd push
+change push
 ```
-git remote add origin git@github.com:elmec-gms/imd.git
-git branch -M main
-git push -u origin main
+git add . 
+git commit -m "modify comment"
+git push  
 ```
